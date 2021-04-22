@@ -11,7 +11,12 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/huangpiaofighting/hqw-fabric"
+    },
+    "homepage": "https://github.com/huangpiaofighting/hqw-fabric",
+    "author": "hqw",
     "license": "ISC",
     "dependencies": {
         "@babel/core": "^7.13.15",
